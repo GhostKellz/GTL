@@ -14,6 +14,16 @@
 
 </div>
 
+## ⚠️ **DISCLAIMER**
+
+⚠️ **EXPERIMENTAL LIBRARY - FOR LAB/PERSONAL USE** ⚠️
+
+This is an experimental library under active development. It is
+intended for research, learning, and personal projects. The API is subject
+to change!
+
+---
+
 **The unified transport layer for all Ghost projects**
 
 A consistent API across multiple protocols (QUIC, HTTP/3, gRPC, WebSockets, SSE, WebTransport, stdio) for reliable, low-latency AI interactions and multi-model orchestration.
